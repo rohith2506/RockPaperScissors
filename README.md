@@ -21,7 +21,7 @@ Implementation of Rock Paper Scissors in Java
 
 * Exploration of different algorithms
 
-* Making this a web service
+* Making a web service
 
 
 #### AUTHOR

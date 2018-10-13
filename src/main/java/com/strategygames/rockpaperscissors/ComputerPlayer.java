@@ -15,24 +15,24 @@ public class ComputerPlayer implements Player {
     private MarkovModel markovModel;
 
     ComputerPlayer() {
-        this.numberOfWins = 0;
-        this.numberOfLosses = 0;
-        this.numberOfDraws = 0;
-        this.difficultyLevel = 0;
+        numberOfWins = 0;
+        numberOfLosses = 0;
+        numberOfDraws = 0;
+        difficultyLevel = 0;
         frequency = new Frequency();
         markovModel = new MarkovModel();
     }
 
     public int GetNumberOfWins() {
-        return this.numberOfWins;
+        return numberOfWins;
     }
 
     public int GetNumberOfLosses() {
-        return this.numberOfLosses;
+        return numberOfLosses;
     }
 
     public int GetNumberOfDraws() {
-        return this.numberOfDraws;
+        return numberOfDraws;
     }
 
     public void setDifficultyLevel(int difficultyLevel) {
@@ -40,15 +40,15 @@ public class ComputerPlayer implements Player {
     }
 
     public void TieMatch() {
-        this.numberOfDraws = this.numberOfDraws + 1;
+        numberOfDraws = numberOfDraws + 1;
     }
 
     public void WonMatch() {
-        this.numberOfWins = this.numberOfWins + 1;
+        numberOfWins = numberOfWins + 1;
     }
 
     public void LoseMatch() {
-        this.numberOfLosses = this.numberOfLosses + 1;
+        numberOfLosses = numberOfLosses + 1;
     }
 
     public int GetRandomChoice() {
