@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f2fd6b-42ba-441e-97b2-34afb8960ae2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,14 +30,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="12450" />
-          <entry key="md" value="617" />
+          <entry key="md" value="796" />
           <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="12450" />
-          <entry key="PLAIN_TEXT" value="617" />
+          <entry key="PLAIN_TEXT" value="796" />
           <entry key="XML" value="19" />
         </counts>
       </usages-collector>
@@ -45,7 +45,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="java" value="12" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -53,7 +53,7 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -170,15 +170,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="525">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#427#444#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -215,8 +224,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/ComputerPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/HumanPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Game.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Constants.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -232,7 +241,9 @@
     <option name="width" value="1920" />
     <option name="height" value="979" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -247,32 +258,6 @@
               <item name="rps" type="b2602c69:ProjectViewProjectNode" />
               <item name="rps" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rps" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rockpaperscissors" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -280,10 +265,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539453638602" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539453810868" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -434,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -524,12 +502,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/strategygames/rockpaperscissors/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="525">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#427#444#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -613,6 +598,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
